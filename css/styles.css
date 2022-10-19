@@ -76,22 +76,27 @@ hr {
 
 .top-cloud {
     position: absolute;
-    right: 300px;
-    top: 30px;
+    right: 20%;
+    top: 20px;
 }
 
 .bottom-cloud {
     position: absolute;
-    left: 300px;
-    bottom: 100px;
+    left: 20%;
+    bottom: 80px;
 }
 
 .mountain {
     position: relative;
     text-align: center;
-    top: -60px;
     width: 40%;
 
+}
+.profile-img {
+
+    border-radius: 200px;
+    width: 20%;
+    margin-bottom: 30px;
 }
 
 .skill-img {
@@ -110,12 +115,7 @@ hr {
     margin-left: 20px;
 }
 
-.profile-img {
 
-    border-radius: 200px;
-    width: 15%;
-    margin-bottom: 30px;
-}
 
 .skill-row {
     margin: auto;
